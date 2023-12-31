@@ -1,0 +1,40 @@
+---
+title: "Introduction to R"
+subtitle: "Machine Learning in Finance, Deusto Business School 2023-24"
+format: html
+editor: visual
+---
+
+## Learning R language
+
+This document shows you the basics of using R programming.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+variable1 <- 6+145
+
+# Basic objects
+# ==========
+x <- c(2, 4 , 6, 8)
+x
+
+
+
+
+# Vectors
+# ==========
+xNum  <- c(1, 3.14159, 5, 7)
+xNum
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).

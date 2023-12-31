@@ -4,7 +4,7 @@
 # All code is (c) 2015, Springer. http://r-marketing.r-forge.r-project.org/
 # TODAY IS FRIDAY
 # ==========
-# CHANGES TO GO TO GITHUB
+# CHANGES TO GO TO GITHUB FROM GTIHUB
 variable1 <- 6+145
 
 # Basic objects
